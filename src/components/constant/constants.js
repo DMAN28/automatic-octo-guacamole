@@ -28,7 +28,7 @@ export const projects = [
     },
     {
       title: 'LEARN IT',
-      description: "An interactive educational forum for exploring web development languages! A great site for anyone interested in coding and learning what languages are available. Choose a language to view more about the history and background and see what people are saying about it. Create an account to join the conversation and share personal anecdotes and online resources, view comment analytics, and engage with the larger LEARN IT community! Contact the site administrators to become an Admin. Admin privileges include adding new languages, editing & removing current ones, and designating other users as Admins.",
+      description: " LEarn it was a collaborative group project the git link is to our project managers github. Learn it is an interactive educational forum for exploring web development languages! A great site for anyone interested in coding and learning what languages are available. Choose a language to view more about the history and background and see what people are saying about it. Create an account to join the conversation and share personal anecdotes and online resources, view comment analytics, and engage with the larger LEARN IT community! Contact the site administrators to become an Admin. Admin privileges include adding new languages, editing & removing current ones, and designating other users as Admins.",
       image: '/images/Burger.png',
       tags: ['CSS', 'Heroku', 'Handelbars', 'Javascript'],
       source: 'https://github.com/ChristopherLawn/learn-code-work',

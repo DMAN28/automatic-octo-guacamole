@@ -1,6 +1,4 @@
 import React from 'react';
-
-
 import { projects } from '../constant/constants';
 
 const Projects = () => (
@@ -17,7 +15,7 @@ const Projects = () => (
             </div>
             <div>{description}</div>
             <div>
-              <h1>Stack</h1>
+              <h4>Stack</h4>
               <div>
                 {tags.map((tag, i) => (
                   <div key={i}>{tag}</div>
