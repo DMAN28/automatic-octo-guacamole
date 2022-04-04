@@ -1,24 +1,24 @@
 # My Portfolio
 
-Description:
+##Description:
 This project was created as a portfolio of my projects using REACT.
 
-Table of Contents
+##Table of Contents
 *Installation *Usage *License *Contributing *Testing *Questions
 
-Installation
+##Installation
 The following dependencies are required to run this application: REACT, fs, util,
 
-Usage
+##Usage
 In order to use this app, In order to use this app, Run this app via gitbash/terminal.
 
-License
+##License
 This project is licensed under the MITGitHub license
 
-Contributing
+##Contributing
 Contributors: N/A
 
-Test
+##Test
 The following is needed to run the test:
 
-Video
+##Images
