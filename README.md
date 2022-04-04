@@ -22,3 +22,4 @@ Contributors: N/A
 The following is needed to run the test:
 
 # Images
+![screenshot](https://user-images.githubusercontent.com/93042669/161483197-9480e102-c9a8-4ca1-9e99-14201abe1530.jpg)
