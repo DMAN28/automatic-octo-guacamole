@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/automatic-octo-guacamole/static/css/main.98eb955b.css",
+    "main.js": "/automatic-octo-guacamole/static/js/main.8d36ac17.js",
+    "index.html": "/automatic-octo-guacamole/index.html",
+    "main.98eb955b.css.map": "/automatic-octo-guacamole/static/css/main.98eb955b.css.map",
+    "main.8d36ac17.js.map": "/automatic-octo-guacamole/static/js/main.8d36ac17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98eb955b.css",
+    "static/js/main.8d36ac17.js"
+  ]
+}
