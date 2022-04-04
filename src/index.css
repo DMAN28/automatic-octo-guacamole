@@ -39,3 +39,12 @@ color: rgb(2, 62, 138)
   margin: 40px auto;
   padding: 20px;
 }
+
+.footer1 {
+  max-width: 800px;
+  display: flex;
+  justify-content: space-between;
+  padding: 150px;
+  }
+
+ 
