@@ -1,0 +1,38 @@
+export const projects = [
+    {
+      title: 'Password generator',
+      description: "This project was designed to demonstrate the use of Javascript to generate a random password for a user.",
+        image: '/images/86.png',
+        tags: ['Javascript', 'CSS', 'HTML', 'Node'],
+      source: 'https://github.com/DMAN28/Password-generator',
+      visit: '',
+      id: 0,
+    },
+    {
+      title: 'README generator',
+      description:"The purpose of the project was to create a command line project. Using node and NPM packages",
+      image: '/images/memory.png',
+      tags: ['Node', 'JavaScript'],
+      source: 'https://github.com/DMAN28/readme-project',
+      visit: '',
+      id: 1,
+    },
+    {
+      title: 'Note Taker',
+      description: "The goal of this project was to create an application that can create notes 📝 also giving the user the ability to store and retrive those notes. Then deploying the application live via Heroku",
+        image: '/images/crypto.png',
+        tags: ['Javascript', 'Heroku', 'CSS', 'HTML'],
+      source: 'https://github.com/DMAN28/note-taker',
+      visit: '',
+      id: 2,
+    },
+    {
+      title: 'LEARN IT',
+      description: "An interactive educational forum for exploring web development languages! A great site for anyone interested in coding and learning what languages are available. Choose a language to view more about the history and background and see what people are saying about it. Create an account to join the conversation and share personal anecdotes and online resources, view comment analytics, and engage with the larger LEARN IT community! Contact the site administrators to become an Admin. Admin privileges include adding new languages, editing & removing current ones, and designating other users as Admins.",
+      image: '/images/Burger.png',
+      tags: ['CSS', 'Heroku', 'Handelbars', 'Javascript'],
+      source: 'https://github.com/ChristopherLawn/learn-code-work',
+      visit: '',
+      id: 3,
+    },
+  ];
